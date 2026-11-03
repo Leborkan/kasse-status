@@ -1,0 +1,20 @@
+{
+  "maising": {
+    "status": "aktiv",
+    "unlockKey": "MK-MAIS-1895-2026",
+    "graceDays": 0,
+    "allowedDevices": [
+      "*"
+    ],
+    "lockMessage": "Lizenz gesperrt – bitte beim Vorstand der Burschenschaft Maising melden."
+  },
+  "bv-musterdorf": {
+    "status": "aktiv",
+    "unlockKey": "MK-7F9A-3K8P-92M4",
+    "graceDays": 5,
+    "allowedDevices": [
+      "*"
+    ],
+    "lockMessage": "Lizenz für Burschenschaft Musterdorf ist noch nicht freigeschaltet oder abgelaufen – bitte bei Burschenschaft Maising melden!"
+  }
+}
