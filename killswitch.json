@@ -15,6 +15,14 @@
     "allowedDevices": [
       "*"
     ],
-    "lockMessage": "Lizenz für Burschenschaft Musterdorf ist noch nicht freigeschaltet oder abgelaufen – bitte bei Burschenschaft Maising melden!"
+    "lockMessage": "Lizenz für diesen Verein ist noch nicht freigeschaltet oder abgelaufen – bitte kurz bei Burschenschaft Maising melden!",
+    "features": {
+      "whatsappAlert": true,
+      "freeEuroButton": true,
+      "centralNumpad": true,
+      "negativePrices": true,
+      "allowButtonEdit": true,
+      "installMenu": true
+    }
   }
 }
