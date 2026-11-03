@@ -24,5 +24,39 @@
       "allowButtonEdit": true,
       "installMenu": true
     }
+  },
+  "bv-gesperrt": {
+    "status": "aktiv",
+    "unlockKey": "MK-LHVF-QH6S-VHEH",
+    "graceDays": 5,
+    "allowedDevices": [
+      "*"
+    ],
+    "lockMessage": "Lizenz für diesen Verein ist noch nicht freigeschaltet oder abgelaufen – bitte kurz bei Burschenschaft Maising melden!",
+    "features": {
+      "whatsappAlert": true,
+      "freeEuroButton": true,
+      "centralNumpad": true,
+      "negativePrices": true,
+      "allowButtonEdit": true,
+      "installMenu": true
+    }
+  },
+  "bv-musterdorf-neu": {
+    "status": "aktiv",
+    "unlockKey": "MK-ZETQ-C6WH-XXM3",
+    "graceDays": 5,
+    "allowedDevices": [
+      "*"
+    ],
+    "lockMessage": "Lizenz für diesen Verein ist noch nicht freigeschaltet oder abgelaufen – bitte kurz bei Burschenschaft Maising melden!",
+    "features": {
+      "whatsappAlert": true,
+      "freeEuroButton": true,
+      "centralNumpad": true,
+      "negativePrices": true,
+      "allowButtonEdit": true,
+      "installMenu": true
+    }
   }
 }
