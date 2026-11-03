@@ -9,7 +9,7 @@
     "lockMessage": "Lizenz gesperrt – bitte beim Vorstand der Burschenschaft Maising melden."
   },
   "bv-musterdorf": {
-    "status": "aktiv",
+    "status": "gesperrt",
     "unlockKey": "MK-7F9A-3K8P-92M4",
     "graceDays": 5,
     "allowedDevices": [
@@ -45,6 +45,23 @@
   "bv-musterdorf-neu": {
     "status": "aktiv",
     "unlockKey": "MK-ZETQ-C6WH-XXM3",
+    "graceDays": 5,
+    "allowedDevices": [
+      "*"
+    ],
+    "lockMessage": "Lizenz für diesen Verein ist noch nicht freigeschaltet oder abgelaufen – bitte kurz bei Burschenschaft Maising melden!",
+    "features": {
+      "whatsappAlert": true,
+      "freeEuroButton": true,
+      "centralNumpad": true,
+      "negativePrices": true,
+      "allowButtonEdit": true,
+      "installMenu": true
+    }
+  },
+  "bv-mugesterdorf": {
+    "status": "aktiv",
+    "unlockKey": "MK-ZYRM-PCGY-RQRF",
     "graceDays": 5,
     "allowedDevices": [
       "*"
